@@ -63,4 +63,4 @@ Captures user search queries and displays matching recipes.
 
 ## Author
 
-Your Name
+Yoshitha Nerusu
